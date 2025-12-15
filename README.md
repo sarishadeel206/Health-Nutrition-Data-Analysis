@@ -3,6 +3,7 @@
 This project analyzes food and nutrition data using Python.
 
 “Due to large size, dataset is not included. Source link is provided.”
+
 Dataset Source:
 USDA FoodData Central (Kaggle)
 https://www.kaggle.com/datasets/johncsloan/usda-fooddata-central
