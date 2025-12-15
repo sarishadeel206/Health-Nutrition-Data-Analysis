@@ -1,6 +1,10 @@
 # Health-Nutrition-Data-Analysis
 
 This project analyzes food and nutrition data using Python.
+Dataset Source:
+USDA FoodData Central (Kaggle)
+https://www.kaggle.com/datasets/johncsloan/usda-fooddata-central
+
 
 ## Key Work
 - Data cleaning and preprocessing
