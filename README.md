@@ -1,5 +1,4 @@
 # Health-Nutrition-Data-Analysis
-# Health Nutrition Data Analysis
 
 This project analyzes food and nutrition data using Python.
 
