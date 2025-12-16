@@ -8,6 +8,9 @@ Dataset Source:
 USDA FoodData Central (Kaggle)
 https://www.kaggle.com/datasets/johncsloan/usda-fooddata-central
 
+Run notebook in Colab to view visualizations”
+
+https://colab.research.google.com/drive/1Cs9ql0zDUUVycm3JsypeQr_-VlKVB5HM?usp=sharing
 
 ## Key Work
 - Data cleaning and preprocessing
